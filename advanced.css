@@ -1,0 +1,37 @@
+[data-color-scheme=dark], html:not([data-color-scheme]) {
+--color-bg-primary: #00000022;
+}
+
+[data-color-scheme=light]  {
+--color-bg-primary: #FFFFFFcc;
+} 
+[data-color-scheme=dark] ._comp_account_header__handleHelp {
+background: var(--color-bg-primary);
+    -webkit-backdrop-filter: blur(10px)saturate(180%)contrast(75%)brightness(70%);
+    backdrop-filter: blur(10px) saturate(180%) contrast(75%) brightness(70%);
+}
+
+/* add labels to mobile nav bar */
+.ui__navigation-bar__item:after {
+content: attr(aria-label); 
+ font-size: 0.65rem;
+    text-align: center;
+    text-wrap: balance;
+    word-wrap: break-word;
+    line-height: 0.6rem;
+
+}
+.status__action-bar__button-wrapper button:after
+{
+content: attr(Title); 
+ font-size: 0.5rem;
+    text-align: center;
+    text-wrap: balance;
+    word-wrap: break-word;
+    line-height: 0.6rem;
+}
+.navigation-panel {
+    background: var(--color-bg-primary);
+    -webkit-backdrop-filter: blur(10px)saturate(180%)contrast(75%)brightness(70%);
+    backdrop-filter: blur(10px) saturate(180%) contrast(75%) brightness(70%);
+}
