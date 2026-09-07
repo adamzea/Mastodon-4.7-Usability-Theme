@@ -1,2 +1,2 @@
 # Mastodon-4.7-Usability-Theme
-CSS code to paste into the Advanced CSS field in order to improve usability.  This will fix the mystery meat navigation on mobile, make dark mode add true black in order to save battery on OLED screens, add some nice "acrylic" style backdrop filter effects.
+CSS code to paste into the Advanced CSS field in order to improve usability.  This will fix the mystery meat navigation on mobile, make dark mode add true black in order to save battery on OLED screens, and add some nice "acrylic" style backdrop filter effects to both dark mode and light mode. Weirdly, the default styles had backdrop filters applied to many areas, but their effects were not visible since the default background colors had no transparency.
