@@ -14,7 +14,7 @@ background: var(--color-bg-primary);
 /* add labels to mobile nav bar */
 .ui__navigation-bar__item:after {
 content: attr(aria-label); 
- font-size: 0.65rem;
+ font-size: clamp(0.65rem, 1.3vw, 1.5rem);
     text-align: center;
     text-wrap: balance;
     word-wrap: break-word;
@@ -24,13 +24,13 @@ content: attr(aria-label);
 .status__action-bar__button-wrapper button:after
 {
 content: attr(Title); 
- font-size: 0.5rem;
+     font-size: clamp(0.5rem, 1.3vw, 1.5rem);
     text-align: center;
     text-wrap: balance;
     word-wrap: break-word;
     line-height: 0.6rem;
 }
-.navigation-panel {
+.navigation-panel, .search__popout {
     background: var(--color-bg-primary);
     -webkit-backdrop-filter: blur(10px)saturate(180%)contrast(75%)brightness(70%);
     backdrop-filter: blur(10px) saturate(180%) contrast(75%) brightness(70%);
