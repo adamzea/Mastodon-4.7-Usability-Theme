@@ -14,7 +14,7 @@ background: var(--color-bg-primary);
 /* add labels to mobile nav bar */
 .ui__navigation-bar__item:after {
 content: attr(aria-label); 
- font-size: clamp(0.65rem, 1.3vw, 1.5rem);
+ font-size: clamp(0.65rem, 1.3vw, 1rem);
     text-align: center;
     text-wrap: balance;
     word-wrap: break-word;
@@ -23,12 +23,12 @@ content: attr(aria-label);
 }
 .status__action-bar__button-wrapper button:after
 {
-content: attr(Title); 
-     font-size: clamp(0.5rem, 1.3vw, 1.5rem);
+    content: attr(Title);
+    font-size: clamp(0.5rem, 1vw, 1rem);
     text-align: center;
     text-wrap: balance;
     word-wrap: break-word;
-    line-height: 0.6rem;
+    line-height: clamp(0.6rem, 1vw, 1rem);
 }
 .navigation-panel, .search__popout {
     background: var(--color-bg-primary);
