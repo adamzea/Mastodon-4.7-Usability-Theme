@@ -5,12 +5,12 @@ CSS code to paste into the Advanced CSS field in order to improve usability.  Th
 
 Why we should fix mystery meat navigation:    
     *[Yes, icons need text labels](https://www.nngroup.com/videos/icon-text-labels/)       
-    *   [The Importance Of Labels](https://blogs.msdn.microsoft.com/jensenh/2005/11/01/the-importance-of-labels/)
-    *   [The best icon is a text label](https://thomasbyttebier.be/blog/the-best-icon-is-a-text-label)
-    *   [Icon usability](https://www.nngroup.com/articles/icon-usability/)
-    *   [Do icons need labels?](https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00)
-    *   [The Obvious UI is Often the Best UI](https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd)
-    *   [Introduction to Mystery Meat Navigation](http://www.webpagesthatsuck.com/mysterymeatnavigation.html) ([2](https://web.archive.org/web/20000816204508/http://www.websitesthatsuck.com/badnavigation.html)) ([3](https://web.archive.org/web/20060312005922/http://www.webpagesthatsuck.com/mysterymeatnavigation.html))
+    *[The Importance Of Labels](https://blogs.msdn.microsoft.com/jensenh/2005/11/01/the-importance-of-labels/)
+    *[The best icon is a text label](https://thomasbyttebier.be/blog/the-best-icon-is-a-text-label)
+    *[Icon usability](https://www.nngroup.com/articles/icon-usability/)
+    *[Do icons need labels?](https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00)
+    *[The Obvious UI is Often the Best UI](https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd)
+    *[Introduction to Mystery Meat Navigation](http://www.webpagesthatsuck.com/mysterymeatnavigation.html) ([2](https://web.archive.org/web/20000816204508/http://www.websitesthatsuck.com/badnavigation.html)) ([3](https://web.archive.org/web/20060312005922/http://www.webpagesthatsuck.com/mysterymeatnavigation.html))
 
 In the context of hamburger buttons:The reason we call them hamburger buttons is as an insult to the designer’s inability to clearly communicate the function of the interactive element.
     *   [What’s wrong with the hamburger button?](https://pocketnow.com/hamburger-buttons)
