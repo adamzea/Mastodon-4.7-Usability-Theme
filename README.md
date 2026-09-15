@@ -4,7 +4,7 @@ CSS code to paste into the Advanced CSS field in order to improve usability.  Th
 
 
 Why we should fix mystery meat navigation:    
-    *   [Yes, icons need text labels](https://www.nngroup.com/videos/icon-text-labels/)       
+    *[Yes, icons need text labels](https://www.nngroup.com/videos/icon-text-labels/)       
     *   [The Importance Of Labels](https://blogs.msdn.microsoft.com/jensenh/2005/11/01/the-importance-of-labels/)
     *   [The best icon is a text label](https://thomasbyttebier.be/blog/the-best-icon-is-a-text-label)
     *   [Icon usability](https://www.nngroup.com/articles/icon-usability/)
