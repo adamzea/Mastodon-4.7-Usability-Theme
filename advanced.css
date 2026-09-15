@@ -49,3 +49,16 @@ content: attr(aria-label);
 .privacy-dropdown__dropdown.bottom, .language-dropdown__dropdown.bottom, .visibility-dropdown__dropdown.bottom {
     background-color: #000000FF;
 }
+
+/* Logo */
+.column-link--logo:after {
+    padding: 0;
+    padding-inline-start: 0;
+    content: 'Lein Social';
+      color: var(--color-text-primary);
+    Font-size: 2.3rem;
+}
+.logo {
+ 
+    display: none;
+}
