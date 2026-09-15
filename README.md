@@ -27,5 +27,4 @@ In the context of hamburger buttons:The reason we call them hamburger buttons is
     *   [Hamburger Menus and Hidden Navigation Hurt UX Metrics](https://www.nngroup.com/articles/hamburger-menus/)
     *   [5 Reasons to Avoid the Desktop Hamburger Menu Icon](https://designshack.net/articles/navigation/reasons-to-avoid-the-desktop-hamburger-menu-icon/) (It really should be avoided on mobile too for the same reasons though.)
     *   [Hamburger buttons are inherently bad UX, particularly on desktop : r/redesign](https://www.reddit.com/r/redesign/comments/7zosyj/hamburger_buttons_are_inherently_bad_ux/)
-        
     *   [Death by Hamburger. Why three little lines are hurting your… | by Fiona Foster | UX Collective](https://uxdesign.cc/death-by-hamburger-2d1db115352a)
