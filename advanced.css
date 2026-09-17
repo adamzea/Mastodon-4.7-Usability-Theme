@@ -1,3 +1,17 @@
+/* Logo */
+.column-link--logo:after {
+    padding: 0;
+    padding-inline-start: 0;
+    content: 'Lein Social';  /*Change the name of your server */
+      color: var(--color-text-primary);
+    Font-size: 2.3rem;
+}
+.logo {
+ 
+    display: none;
+}
+
+/* improve contrast */
 [data-color-scheme=dark], html:not([data-color-scheme]) {
 --color-bg-primary: #00000022;
 }
@@ -50,15 +64,3 @@ content: attr(aria-label);
     background-color: #000000FF;
 }
 
-/* Logo */
-.column-link--logo:after {
-    padding: 0;
-    padding-inline-start: 0;
-    content: 'Lein Social';
-      color: var(--color-text-primary);
-    Font-size: 2.3rem;
-}
-.logo {
- 
-    display: none;
-}
